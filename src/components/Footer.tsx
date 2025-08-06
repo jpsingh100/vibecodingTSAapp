@@ -6,12 +6,6 @@ export const Footer: React.FC = () => {
     <footer className="bg-gray-900 text-white py-8">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
-          <h3 className="text-lg font-semibold mb-4">Important Notice</h3>
-          <p className="text-gray-300 mb-4 max-w-3xl mx-auto">
-            This app provides general TSA guidelines for reference. Rules may change and 
-            final decisions are always made by TSA officers. For the most current information, 
-            visit the official TSA website.
-          </p>
           <a
             href="https://www.tsa.gov/travel/security-screening/whatcanibring"
             target="_blank"
